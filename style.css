@@ -59,7 +59,7 @@ header span {
 }
 
 .main-image {
-  max-width: 100%;
+  max-width: 715px;
 }
 
 .about-section {
@@ -228,7 +228,7 @@ footer {
 
   .main-image {
     /* 📍 Максимальная ширина для главного изображения в % */
-    max-width: 728px;
+    max-width: 100%;
   }
 
   .text-wrapper {
